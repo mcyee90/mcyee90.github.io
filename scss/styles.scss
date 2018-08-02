@@ -94,6 +94,7 @@ body {
     }
 }
 
+ul {color: #74808a;}
 // No JS styles
 .no-js {
     #experience-timeline {
@@ -457,6 +458,11 @@ footer {
         color: $text;
         margin: 0;
     }
+
+    img {
+        border-radius: 50%;
+        width: 100%
+    }
 }
 
 /*
@@ -533,6 +539,7 @@ footer {
         font-size: 0.9em;
         margin: 0;
     }
+    
 }
 
 .vtimeline-point {
@@ -999,3 +1006,4 @@ footer {
     }
 
 }
+
